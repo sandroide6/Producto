@@ -1,0 +1,162 @@
+body {
+    background: #90a4ae;
+    font: 24px Helvetica;
+}
+
+#main{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-flow: row;
+    min-height: 800px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 90%;
+}
+#main article{
+    margin: 4px;
+    padding: 5px;
+    border: 2px solid goldenrod;
+    border-radius: 7px;
+    background: #616161;
+    order: 2;
+    flex: 3 1 60%;
+}
+
+.azorin{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 11px;
+    border: 2px solid black;
+    border-top: 10px solid ;
+    padding: 2px;
+    border-radius: 7%;
+    
+
+}
+
+#gif2{
+    border: 2px solid #ef6c00 ;
+    width: 300px;
+    height: 300px;
+   float: center;
+margin-left: 25%;
+border-radius: 13%;
+
+}
+nav ul {
+  list-style: none;
+  
+    
+}
+
+nav ul li {
+   
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    font-size: 20px;
+    
+    border-radius: 5px;
+
+    
+}
+h1{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background:  black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 23px;
+    width: 400px;
+   margin-left: 3%;
+   
+ 
+}
+#main nav{
+    margin: 4px;
+    padding: 5px;
+    border: 2px solid goldenrod;
+    border-radius: 7px;
+    background:#757575;
+    flex: 1 6 20%;
+    order: 1;
+}
+
+ #main .cuadro p{
+    width: 300px;
+    height: 300px;
+    font-size: 15px;
+    padding: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+   
+ }
+h2{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    background-color: #424242;
+    min-height: 10px;
+    height: 45px;
+    
+}
+#main aside{
+    margin: 4px;
+    padding: 5px;
+    border: 2px solid goldenrod;
+    border-radius: 7px;
+    background: #757575;
+    flex: 1 0 20%;
+    order: 3;
+}
+header, footer{
+    display: block;
+    margin: 4px;
+    padding: 5px;
+    border: 1px solid #f5f5f5;
+    border-radius: 7px;
+    background-color: #616161;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    display: flex;
+}
+
+
+
+#gif{
+
+
+float: right;
+
+width: 200px;
+height: 200px;
+padding: 1%;
+}
+
+
+
+
+.table{
+
+background-color: darkred ;
+color:goldenrod;
+}
+
+.table2{
+
+background-color: lightblue;
+color: white;
+
+
+}
+
+#comparacion{
+
+border-radius: 10px;
+border-color: orange;
+
+}
